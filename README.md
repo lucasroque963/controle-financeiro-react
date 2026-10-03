@@ -6,25 +6,27 @@ O projeto permite cadastrar, editar, excluir e filtrar transações, além de ex
 
 ---
 
+## 📸 Preview
+
+![Preview do Controle Financeiro](./src/assets/preview.png)
+
+---
+
 ## 🚀 Funcionalidades
 
 - Adicionar transações
 - Editar transações
 - Excluir transações
 - Cancelar edição
-- Filtrar por tipo:
-  - Todas
-  - Receitas
-  - Despesas
-- Filtrar por categoria
-- Cálculo automático de:
-  - Saldo
-  - Receitas
-  - Despesas
+- Filtrar transações por tipo
+- Filtrar transações por categoria
+- Cálculo automático de saldo
+- Cálculo automático de receitas
+- Cálculo automático de despesas
 - Persistência dos dados com LocalStorage
-- Gráfico de receitas e despesas
+- Gráfico comparativo de receitas e despesas
 - Formatação de valores em Real Brasileiro
-- Layout responsivo para diferentes tamanhos de tela
+- Layout responsivo para desktop e celular
 
 ---
 
