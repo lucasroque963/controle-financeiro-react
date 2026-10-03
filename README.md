@@ -8,7 +8,7 @@ O projeto permite cadastrar, editar, excluir e filtrar transações, além de ex
 
 ## 📸 Preview
 
-![Preview do Controle Financeiro](./src/assets/preview.png)
+![Preview do Controle Financeiro](src/assets/preview.png)
 
 ---
 
