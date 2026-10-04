@@ -6,6 +6,12 @@ O projeto permite cadastrar, editar, excluir e filtrar transações, além de ex
 
 ---
 
+## 🌐 Projeto online
+
+🔗 [Clique aqui para acessar o Controle Financeiro](https://controle-financeiro-react-lac.vercel.app/)
+
+---
+
 ## 📸 Preview
 
 ![Preview do Controle Financeiro](src/assets/preview.png)
